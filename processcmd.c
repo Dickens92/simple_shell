@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * processcmd - Parse user input into command
- * @shell: The smd to startup the shell
+ * processcmd - Parse user input 
+ * @shell: The smd for starting the shell
  * @str: User input
  * @var: shell variables
  *
