@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * aux_help - Help info for the builtin help.

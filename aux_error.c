@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * strcat_cd - function concatenating message for cd error

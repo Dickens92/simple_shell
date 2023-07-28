@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * copy_info - copies info

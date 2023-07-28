@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * cmp_env_name - compares variables names
