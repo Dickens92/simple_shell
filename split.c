@@ -44,7 +44,7 @@ char *swap_char(char *input, int bool)
 }
 
 /**
- * add_nodes - add separators and command lines in the lists
+ * add_nodes - add separators and command lines 
  *
  * @head_s: head of separator list
  * @head_l: head of command lines list
